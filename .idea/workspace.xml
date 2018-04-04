@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="883a3a12-78ae-4011-a551-f018b50786c0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/q.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kc.lic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q.k" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/buildhdb.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/buildhdb.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/MANIFEST" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/api_socket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/bitcoinexchangefh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/kdbplus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/sql_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/sqlite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/clients/zmq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/binance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/bitfinex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/bitflyer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/bitmex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/bitstamp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/bittrex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/btcc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/coincheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/coinone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/cryptopia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/gatecoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/gateway.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/gdax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/huobi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/kraken.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/liqui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/luno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/okcoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/okex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/poloniex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/quoine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/restful_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/wex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/ws_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/exchanges/yunbi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/instrument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/market_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/restful_api_socket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/subscription_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_file_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_kdbplus_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_sqlite_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_subscription_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_subscriptions.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_ws_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/test/test_zmqfeed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/befh/ws_api_socket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/doc/icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/doc/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/doc/sample2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/subscriptions.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/third-party/q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/coinexchs/third-party/q.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/q.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/q.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/q.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/q.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/cx.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/feed.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/run.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/run1.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/runsource.applescript" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/sym.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/tick.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/tick/r.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/tick/sym.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/tick/u.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/ticker.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/feed.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/hlcv.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/last.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/rdb.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/show.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/ticker.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/tq.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/tick/win/vwap.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/trades.q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w64/q.exe" afterDir="false" />
-    </list>
+    <list default="true" id="883a3a12-78ae-4011-a551-f018b50786c0" name="Default" comment="" />
     <ignored path="kc.lic" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -152,10 +51,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/kc.lic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="diff.base" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,7 +115,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32949308" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24990238" />
       <window_info anchor="right" id="Database" />
